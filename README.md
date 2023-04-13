@@ -1,5 +1,5 @@
 # VADER-sentiment-analysis
-This project is a part of Text Analytics and Sentiment Analysis module assignment in university.
+This project is a part of Text Analytics and Sentiment Analysis module assignment in university using Python in Jupyter Notebook.
 
 Musical_Instruments_Reviews.csv is the dataset used to perform sentiment analysis, the dataset consists of string values of musical instruments review.
 
